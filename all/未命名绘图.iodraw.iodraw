@@ -51,6 +51,9 @@
         <mxCell id="O9lrI04RA6FRuSgBA8lf-11" value="STM32接收解析保存碎片数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="O9lrI04RA6FRuSgBA8lf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
