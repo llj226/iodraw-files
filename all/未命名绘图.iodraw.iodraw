@@ -45,7 +45,7 @@
         <mxCell id="O9lrI04RA6FRuSgBA8lf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O9lrI04RA6FRuSgBA8lf-8" target="O9lrI04RA6FRuSgBA8lf-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O9lrI04RA6FRuSgBA8lf-8" value="串口下发坐标指令" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="O9lrI04RA6FRuSgBA8lf-8" value="&lt;font color=&quot;#ffffff&quot;&gt;串口下发坐标指令&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="554" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9lrI04RA6FRuSgBA8lf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O9lrI04RA6FRuSgBA8lf-11" target="O9lrI04RA6FRuSgBA8lf-13">
