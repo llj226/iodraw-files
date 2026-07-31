@@ -87,13 +87,13 @@
         <mxCell id="O9lrI04RA6FRuSgBA8lf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O9lrI04RA6FRuSgBA8lf-28" target="O9lrI04RA6FRuSgBA8lf-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O9lrI04RA6FRuSgBA8lf-28" value="是否全部完成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="O9lrI04RA6FRuSgBA8lf-28" value="&lt;font color=&quot;#ffffff&quot;&gt;是否全部完成&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="278" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O9lrI04RA6FRuSgBA8lf-31" value="退出" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="283" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O9lrI04RA6FRuSgBA8lf-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="O9lrI04RA6FRuSgBA8lf-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="288" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O9lrI04RA6FRuSgBA8lf-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
