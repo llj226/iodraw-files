@@ -66,8 +66,11 @@
         <mxCell id="O9lrI04RA6FRuSgBA8lf-20" value="滑台移动，并完成抓取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="554" y="288" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O9lrI04RA6FRuSgBA8lf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="O9lrI04RA6FRuSgBA8lf-23" value="旋转碎片到目标角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="288" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O9lrI04RA6FRuSgBA8lf-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
